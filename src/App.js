@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My name is lakhan. changed on the feature branch
+          My name is lakhan and changed on the feature branch
         </a>
       </header>
     </div>
